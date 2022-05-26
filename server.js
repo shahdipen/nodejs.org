@@ -1,5 +1,4 @@
 'use strict';
-
 // The server where the site is exposed through a static file server
 // while developing locally.
 
